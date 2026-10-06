@@ -1,5 +1,5 @@
 let button = document.querySelector("#btn");
-const url = "http://ipwho.is/";
+const url = "https://ipwho.is/";
 
 button.addEventListener("click", async () => {
     let ip = document.querySelector("#in");
